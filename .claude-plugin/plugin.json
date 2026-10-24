@@ -8,5 +8,7 @@
   },
   "homepage": "https://rowbrief.inkcroft.com/docs",
   "privacyPolicyUrl": "https://rowbrief.inkcroft.com/privacy",
+  "supportUrl": "mailto:support@inkcroft.com",
+  "repository": "https://github.com/ddutche/rowbrief-plugin",
   "license": "MIT"
 }
