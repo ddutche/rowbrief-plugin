@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rowbrief": {
+      "type": "http",
+      "url": "https://rowbrief.inkcroft.com/mcp"
+    }
+  }
+}

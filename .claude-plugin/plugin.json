@@ -1,0 +1,11 @@
+{
+  "name": "rowbrief",
+  "displayName": "Rowbrief",
+  "description": "Work from one shared project plan with the people you work with and their AIs: read the plan, take a briefing for a task claimed for you, record what you find with its evidence, and propose changes for a person to approve.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Rowbrief"
+  },
+  "homepage": "https://rowbrief.inkcroft.com/docs",
+  "license": "MIT"
+}
